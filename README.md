@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90)
 
+<div align="center">
 ## 💻 Tech Stacks 💻
 
 Techs i've userd least one <br/>
@@ -8,9 +9,12 @@ Techs i've userd least one <br/>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeinj&repo=github-readme-stats)(https://github.com/Piro-Pirot/django-pirot.git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinj&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinj&layout=compact&hide=dart)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&theme=cobalt&show_icons=true)
+
+</div>
+
 <!--
 **hyeinj/hyeinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
