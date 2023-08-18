@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Hyein's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Welcome%20to%20Hyein's%20GitHub%20&fontSize=40&animation=twinkling)
 
 <div align="center">
 <h2 align="center">💻 Tech Stacks 💻</h2>
