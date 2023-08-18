@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90)
 
-### Hi there 👋
+<img src="https://img.shields.io/badge/Django-#092E20?style=for-the-badge&logo=Django&logoColor=black">
 
 <!--
 **hyeinj/hyeinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
