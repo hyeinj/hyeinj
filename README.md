@@ -10,7 +10,7 @@ Techs i've userd least one <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinj&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&theme=cobalt&show_icons=true)
 <!--
 **hyeinj/hyeinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
