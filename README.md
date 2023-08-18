@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=90)
 
-<img src="https://img.shields.io/badge/Django-#092E20?style=for-the-badge&logo=Django&logoColor=black">
+## 💻 Tech Stacks 💻
+
+Techs i've userd least one <br/>
+<img src ="https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src ="https://img.shields.io/badge/c-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img src ="https://img.shields.io/badge/cplusplus-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 <!--
 **hyeinj/hyeinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
