@@ -3,8 +3,9 @@
 ## 💻 Tech Stacks 💻
 
 Techs i've userd least one <br/>
-<img src ="https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src ="https://img.shields.io/badge/c-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img src ="https://img.shields.io/badge/cplusplus-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src ="https://img.shields.io/badge/c-#A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src ="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hyeinj/hyeinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
