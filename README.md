@@ -16,11 +16,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinj&count_bg=%23FF84A3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&count_private=true&show_icons=true&theme=cobalt)
+
 
 </div>
 
 <!--
+![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&count_private=true&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinj&layout=compact)](https://github.com/hyeinj)
 
 **hyeinj/hyeinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
