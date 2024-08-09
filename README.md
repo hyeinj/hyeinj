@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me 👩‍💻
 - 🌐 I majored in computer software engineering at Hanyang University
 - 🔭 I’m currently working as a backend developer
-- 📫 How to reach me: <a href="mailto:hyein8474@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+- 📫 How to reach me: <a href="mailto:jhi2002@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </br>
 
