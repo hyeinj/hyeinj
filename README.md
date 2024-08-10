@@ -27,7 +27,7 @@
 
 - 2022-2023 Executive Chairperson of the Student Council, Department of Computer Software Engineering, Hanyang University
 - 2023-24 GDSC(Google Developer Student Clubs) Hanyang Univ. Server Member
-- Web Development Cloub, Pirogramming(19th) member
+- Web Development Club, Pirogramming(19th) member
 - GDG(Google Developer Groups) 2024 Build with AI Campus Korea Staff
 - Algorithm Club 'Aloha', Department of Computer Software Engineering, Hanyang University
 - 'Mobile App Development Cooperative' Company Backend Developer Intern
