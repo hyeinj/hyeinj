@@ -2,7 +2,6 @@
 
 ## 👩‍💻 About Me 👩‍💻
 - 🌐 I majored in computer software engineering at Hanyang University
-- 🔭 I’m currently working as a backend developer
 - 📫 How to reach me: <a href="mailto:jhi2002@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </br>
@@ -15,7 +14,7 @@
   <img src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=white"/> </br>
 ### Language
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/> <img src ="https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white"/> <img src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=flat&logo=c&logoColor=white"/> <img src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=white"/>  </br>
-### iOS & Front-end
+### App & Front-end
   <img src ="https://img.shields.io/badge/Swift-F05138.svg?&style=flat&logo=swift&logoColor=white"/>  <img src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white"/> </br>
 <img src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white"/> <img src ="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white"/>  </br>
 
@@ -39,6 +38,7 @@
 
 
 <!--
+- 🔭 I’m currently working as a backend developer
 ![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&count_private=true&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinj&layout=compact)](https://github.com/hyeinj)
 
