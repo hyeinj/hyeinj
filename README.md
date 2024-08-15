@@ -2,6 +2,7 @@
 
 ## 👩‍💻 About Me 👩‍💻
 - 🌐 I majored in computer software engineering at Hanyang University
+- 🔭 I’m currently working as a backend developer
 - 📫 How to reach me: <a href="mailto:jhi2002@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </br>
@@ -38,7 +39,7 @@
 
 
 <!--
-- 🔭 I’m currently working as a backend developer
+
 ![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinj&count_private=true&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinj&layout=compact)](https://github.com/hyeinj)
 
