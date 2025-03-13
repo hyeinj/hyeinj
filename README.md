@@ -31,6 +31,7 @@
 - GDG(Google Developer Groups) 2024 Build with AI Campus Korea Staff
 - Algorithm Club 'Aloha', Department of Computer Software Engineering, Hanyang University
 - 'Mobile App Development Cooperative' Company Backend Developer Intern
+- GDG(Google Developer Groups) DevFest 2024 : 삐약톤 캠퍼스 대항전 Winter Hackathon Staff
 
 </br>
 </br>
